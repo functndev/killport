@@ -10,6 +10,8 @@ Tired of those pesky ports always being occupied? Looking for a swift, ninja-lik
 curl -s https://raw.githubusercontent.com/functndev/killport/main/install_killport.sh | bash
 ```
 
+⚠️ Note: Always check the script before automatically running code from unknown sources!
+
 2. 🎉 Celebrate! killport is now at your service.
 
 ## 🕹️ How to Use - It's like 1-2-3!
